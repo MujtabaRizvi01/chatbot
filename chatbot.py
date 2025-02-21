@@ -14,8 +14,8 @@ chat= model.start_chat()
 
 while True:
 	message= input("Your Message: ")
-	if message=='choco':
-		print("Hero")
+	if message=='Mujtaba here':
+		print("Greetings! Master")
 		continue
 	if message.lower()=='bye':
 
